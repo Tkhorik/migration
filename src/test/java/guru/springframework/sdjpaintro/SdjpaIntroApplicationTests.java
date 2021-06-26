@@ -8,6 +8,7 @@ class SdjpaIntroApplicationTests {
 
     @Test
     void contextLoads() {
+        System.out.println("i ll make some changes for еo enslave the whole world");
     }
 
 }
